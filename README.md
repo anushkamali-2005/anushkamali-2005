@@ -1,123 +1,54 @@
-NITIALIZATION SEQUENCE
-"""
-SYSTEM BOOT: ANUSHKA MALI
-Domain: Artificial Intelligence & Machine Learning
-Status: Learning → Building → Scaling
-"""
+<h1 align="left">Hi 👋, I'm Anushka Mali</h1>
 
-class AIML_Engineer:
-    def __init__(self):
-        self.identity = {
-            "name": "Anushka Mali",
-            "education": "B.Tech AIML (2nd Year)",
-            "focus": [
-                "Machine Learning",
-                "Deep Learning",
-                "LLMs & Agentic AI",
-                "MLOps & Deployment"
-            ],
-            "goal": "Build intelligent systems that work in the real world"
-        }
+<h3 align="left">
+🚀 AI / ML Engineering Student | MLops | LLMs & Intelligent Systems Enthusiast
+</h3>
 
-    def mission(self):
-        return "Turn data into decisions using AI"
+## 🧠 About Me
 
-engineer = AIML_Engineer()
-print("System online 🚀")
+<table>
+<tr>
+<td width="60%">
 
-🧪 THE AI LAB
-🧬 Project Alpha — iCare (Healthcare Intelligence Platform)
-Patient Data → Secure Storage → AI Processing → Actionable Insights
+- 🎓 **B.Tech in Artificial Intelligence & Machine Learning (AIML)**  
+  *Currently in 3rd Year*
 
+- 💡 **AI / ML Engineering Student** focused on:
+  - Machine Learning & Deep Learning  
+  - LLMs, RAG (Retrieval-Augmented Generation)  
+  - Agentic AI & intelligent workflows  
 
-What it shows
+- 🛠 Hands-on experience building:
+  - End-to-end ML projects  
+  - Full-stack AI systems  
+  - ML model APIs & backend integrations  
 
-Full-stack system thinking
+- 🌱 Currently learning:
+  - Generative AI & LLM pipelines  
+  - Agent-based AI systems  
+  - MLOps & deployment fundamentals  
 
-Real-world healthcare workflow
+- ⚡ **Fun fact:** I love understanding how AI systems behave in real-world scenarios, not just model accuracy.
 
-ML + backend + frontend integration
+</td>
 
-Tech
+<td width="40%" align="center">
 
-Python | ML
-
-Node.js | PostgreSQL | Prisma
-
-Next.js | TypeScript
-
-🔗 https://github.com/anushkamali-2005/icare
-
-🧠 Project Beta — Blood Group Recognition using Fingerprints
-Fingerprint Image
-        ↓
-Feature Extraction
-        ↓
-ML Model
-        ↓
-Blood Group Prediction
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="380"/>
 
 
-Highlights
-
-Computer Vision + ML
-
-Model training & evaluation
-
-Flask-based backend
-
-Tech
-
-PyTorch
-
-OpenCV
-
-Flask
-
-🚚 Project Gamma — Fleet Route Optimization (ML)
-Delivery Nodes → Feature Engineering → ML Optimization → Cost Reduction
 
 
-Focus
 
-Logistics optimization
+</table>
 
-Real-world ML problem (fuel, time, routes)
+## 🧠 Professional Summary
 
-Tech
+Motivated **Artificial Intelligence & Machine Learning (AIML) engineering student** with hands-on experience in building **end-to-end ML and AI-driven applications**. Strong foundation in **Machine Learning, Deep Learning, and data-driven problem solving**, with growing exposure to **Generative AI and LLM-based workflows**.
 
-Python
+Experienced across the **ML lifecycle** — including data preprocessing, feature engineering, model training, evaluation, and **basic deployment using Flask and backend APIs**. Comfortable working with both **structured and unstructured data** to design practical AI solutions.
 
-Classical ML algorithms
+Actively learning and experimenting with **LLMs, Retrieval-Augmented Generation (RAG), and Agentic AI concepts**, with a focus on understanding how intelligent systems operate in **real-world scenarios**, not just offline metrics.
 
-⚙️ TECH STACK (CORE)
-Languages        : Python | Java
-ML / DL          : PyTorch | scikit-learn | NumPy
-Computer Vision  : OpenCV
-Backend          : Flask | Node.js
-Frontend         : React | Next.js
-Database         : PostgreSQL
-MLOps / Tools    : Git | GitHub | Docker (learning)
+Currently focused on strengthening skills in **Generative AI, Agentic AI, and ML system deployment**, with a long-term goal of becoming a **Production ML / AI Engineer** building reliable, scalable, and impactful intelligent applications.
 
-📊 GITHUB STATS (SIGNAL, NOT NOISE)
-![Stats](https://github-readme-stats.vercel.app/api?username=anushkamali-2005&show_icons=true&theme=tokyonight)
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=anushkamali-2005&theme=tokyonight)
-
-🌊 CURRENT FOCUS
-🧠 Learning:
-- LLM fundamentals
-- RAG pipelines
-- Agentic AI (LangChain-style workflows)
-
-⚙️ Building:
-- End-to-end ML projects
-- Clean data → model → API → UI pipelines
-
-🚀 Goal:
-- Transition into Production ML / AI Engineering
-
-🤝 CONNECT
-
-🔗 LinkedIn: https://www.linkedin.com/in/anushka-mali-486857297/
-
-📧 Email: (add your email)
