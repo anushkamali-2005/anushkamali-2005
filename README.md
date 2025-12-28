@@ -1,4 +1,8 @@
-<h1 align="left">Hi 👋, I'm Anushka Mali</h1>
+<h1>Hi 👋, I'm Anushka Mali</h1>
+
+
+
+
 
 <h3 align="left">
 🚀 AI / ML Engineering Student | MLops | LLMs & Intelligent Systems Enthusiast
@@ -44,11 +48,21 @@
 
 ## 🧠 Professional Summary
 
-Motivated **Artificial Intelligence & Machine Learning (AIML) engineering student** with hands-on experience in building **end-to-end ML and AI-driven applications**. Strong foundation in **Machine Learning, Deep Learning, and data-driven problem solving**, with growing exposure to **Generative AI and LLM-based workflows**.
+Motivated **Artificial Intelligence & Machine Learning (AIML) engineering student** with hands-on experience in building **end-to-end ML and AI-driven applications**. Strong foundation in **Machine Learning, Agentic Ai, and real world problem solving**, with growing exposure to **Mlops and LLM-based workflows**.
 
 Experienced across the **ML lifecycle** — including data preprocessing, feature engineering, model training, evaluation, and **basic deployment using Flask and backend APIs**. Comfortable working with both **structured and unstructured data** to design practical AI solutions.
 
 Actively learning and experimenting with **LLMs, Retrieval-Augmented Generation (RAG), and Agentic AI concepts**, with a focus on understanding how intelligent systems operate in **real-world scenarios**, not just offline metrics.
 
 Currently focused on strengthening skills in **Generative AI, Agentic AI, and ML system deployment**, with a long-term goal of becoming a **Production ML / AI Engineer** building reliable, scalable, and impactful intelligent applications.
+## 🧠 Technical Skills
 
+| Category | Skills & Tools |
+|--------|----------------|
+| 💻 **Programming Languages** | Python, C, JavaScript (Basics), HTML, CSS |
+| 🧩 **ML & DL Frameworks** | NumPy, Pandas, Scikit-learn, PyTorch, OpenCV, Matplotlib, Seaborn |
+| 🤖 **LLM & Generative AI (Learning & Hands-on)** | LLM fundamentals, Retrieval-Augmented Generation (RAG), Prompt Engineering, Vector Embeddings , Agentic AI concepts |
+| ⚙️ **Backend & Databases** | Flask, Node.js (basic), PostgreSQL |
+| 🛠 **Developer Tools & IDEs** | Git, GitHub, VS Code, Jupyter Notebook, Anaconda |
+| ☁️ **MLOps & Deployment (Foundational)** | Model serving with Flask APIs, basic Docker understanding, ML system design fundamentals |
+| 📊 **Core Competencies** | Machine Learning, AI System Design, Model Evaluation, Problem Solving, Experimentation |
